@@ -80,6 +80,13 @@ Q14. What are operators in Python?
 # Comparison operators --> <,>,<=,>=,==,!=
 # logical operators --> and ,or,not
 # Bitwise operators --> 
+  Bitwise AND operator
+  Bitwise OR operator
+  Bitwise not operator
+  Bitwise XOR operator
+# Shift Operators: 
+  Bitwise right shift
+  Bitwise left shift
 # Membership operators --> in , not in
 
 Q15. What is difference between / and // operators?
