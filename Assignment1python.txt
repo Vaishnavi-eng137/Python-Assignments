@@ -55,10 +55,10 @@ Q8. What is type casting?
 
 Q9. Can we take more than one input from the user using single input() function? If yes, how? If no, why?
 # Yes we can take more than one input from the user .
-# name = input("enter a name: ")
-# age = input("enter age: ")
-# print("name = ",name)
-# print("age = ",age )
+# name1,name2 = input("enter two names: ").split() 
+# print("first name:" name1)
+# print("second name:" name2)
+
 
 Q10. What are keywords?
 # Certain words which are predefined and reserved in python that have special meanings and 
